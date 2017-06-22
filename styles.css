@@ -1,0 +1,51 @@
+.box {
+  font-family: arial;
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  display: block;
+}
+
+nav {
+  fontfamily: arial;
+  font-weight: bold;
+  text-align: center;
+}
+
+.navtxt {
+  display:inline-block;
+  width: 100px;
+  height: 20px;
+  text-decoration: none;
+  background-color: grey;
+  color: white;
+  padding: 10px
+}
+
+ .line {
+  background-color: green;
+  width: 800px;
+  border: 40px;
+  padding: 10px;
+  color: white;
+  margin: 0 auto;
+}
+
+.wrap {
+  width: 700px;
+  margin: 0 auto;
+}
+
+div {
+  display: inline-block;
+  text-align: center;
+}
+
+.yellow {
+  font-family: arial;
+  display: block;
+  background-color: yellow;
+  text-align: center;
+}
